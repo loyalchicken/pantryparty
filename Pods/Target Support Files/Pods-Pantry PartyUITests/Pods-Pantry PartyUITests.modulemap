@@ -1,0 +1,6 @@
+framework module Pods_Pantry_PartyUITests {
+  umbrella header "Pods-Pantry PartyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
